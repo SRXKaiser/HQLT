@@ -37,7 +37,7 @@ Su arquitectura modular, interfaz amigable y compatibilidad con bases de datos l
 
 ### Opción 1: Ejecutable directo
 
-1. Descargar el archivo `HQLT.zip` desde la sección [Releases](https://github.com/usuario/HQLT-Facturacion/releases).
+1. Descargar el archivo `HQLT.zip` desde la sección [Releases](https://github.com/SRX/HQLT/releases).
 2. Extraer el contenido en una carpeta local.
 3. Ejecutar el archivo `HQLT.exe`.
 4. Registrar un nuevo usuario administrador al iniciar por primera vez.
@@ -47,4 +47,4 @@ Su arquitectura modular, interfaz amigable y compatibilidad con bases de datos l
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/usuario/HQLT-Facturacion.git
+   git clone https://github.com/SRXKaiser/HQLT
