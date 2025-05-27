@@ -47,4 +47,4 @@ Su arquitectura modular, interfaz amigable y compatibilidad con bases de datos l
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/SRXKaiser/HQLT
+   git clone https://github.com/SRXKaiser/HQLT.git
